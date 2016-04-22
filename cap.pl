@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # cap
-# Michael Vandenberghe ( h3k )
+# Michael Vandenberghe ( h3k ) 2005
 # Licensed under gpl
 
 use strict;
